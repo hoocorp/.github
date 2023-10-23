@@ -1,2 +1,2 @@
-# .github
+# hoocorp™️
 we make a lot :)
