@@ -1,2 +1,4 @@
-<h3 align="center">hoocorp™️</h3>
-<p align="center"><strong>empowering hoo</strong></p>
+# hoocorp
+We do so much, it's hard to fit it into one paragraph.
+
+Visit us at [https://www.hoocorp.xyz](https://www.hoocorp.xyz)!
